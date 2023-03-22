@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 5px;
+}
+button{
+    width: 60px;
+}
+body{
+    background-color: cadetblue;
+}
+input{
+    border-radius: 5px;
+    border: none;
+    height: 30px;
+}
+button{
+    border-radius: 5px;
+    border: none;
+}
